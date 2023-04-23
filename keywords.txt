@@ -1,0 +1,18 @@
+Super_Robot	KEYWORD1
+
+dance	KEYWORD2
+wave	KEYWORD2
+bow	KEYWORD2
+lean_left	KEYWORD2
+lean_right	KEYWORD2
+trim_left	KEYWORD2
+trim_right	KEYWORD2
+forward	KEYWORD2
+back	KEYWORD2
+turn_left	KEYWORD2
+turn_right	KEYWORD2
+center_servos	KEYWORD2
+increase_speed	KEYWORD2
+decrease_speed	KEYWORD2
+srv	KEYWORD2
+get_distance	KEYWORD2

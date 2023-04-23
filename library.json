@@ -1,0 +1,26 @@
+{
+  "name": "Super_Robot",
+  "keywords": "Robot, action, control",
+  "description": "Control the robot through libraries",
+  "repository":
+  {
+    "type": "git",
+    "url": "https://github.com/SuqinEdu/SuperRobot"
+  },
+  "version": "1.1.0",
+  "frameworks": "arduino",
+  "platforms": ["espressif8266", "espressif32", "ststm32"],
+  "authors" : 
+  [
+	{
+      "name":"Li ZhengHong",
+      "email":"zhli_8@163.com",
+      "maintainer": true  
+    },
+    {
+      "name":"Tian YongLin",
+      "url": "1547013894@qq.com",
+      "maintainer": true
+    } 
+  ]
+}
